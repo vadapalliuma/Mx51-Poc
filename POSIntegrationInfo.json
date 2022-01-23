@@ -1,0 +1,27 @@
+[
+  {
+    "POS Name": "Abacus",
+    "Company Name": "Abacus",
+    "POS Logo": "",
+    "Industries Served": "Hospitality",
+    "POS Website URL": "POS System | Australia\u0027s Fastest Growing Point Of Sale System",
+    "POS Language": "Objective C",
+    "POS Certified Version": "2.8.137(20210428.1328)",
+    "POS Operating System Supported": "iOS\r\niPAD OS",
+    "Certified mx51 Solution": "SPI - iOS",
+    "mx51 Solution Version": "2.6.6",
+    "Integrated Features": "Purchase \r\nRefund\r\nSettlement\r\nMOTO\r\nIntegrated Printing\r\nTerminal based Surcharge\r\nTerminal based Tipping",
+    "Multi-Tenant Certified": "Yes",
+    "Certification Documentation": "2.66",
+    "mx51 Integration Engineer": "Alaxan Kol",
+    "mx51 Quality Assurance Engineer": "Joyce Cheah",
+    "mx51 Relationship Manager": "Tim",
+    "Certification Date": "07 May 2021",
+    "Upgrade": "Yes",
+    "Upgrade Notes": "Upgraded to multi tenant supported library version",
+    "Known Issues": "If POS based surcharges been applied then split payment is not possible",
+    "Pairing Videos": "https://drive.google.com/drive/folders/1rwRf5CUk9wFDuqfQCGlUuD6Wa8_RLpC0?usp=sharing",
+    "Notes": "",
+    "Logs Enabled": "Yes"
+  }
+]
